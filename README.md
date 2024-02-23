@@ -110,8 +110,9 @@ void loop()
 
 **Graph:**
 ![image](https://github.com/KumaravelIT/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/blob/main/Screenshot%202024-02-23%20155028.png)
-**Simulation output:** 
-**
+**Simulation output:**
+**off**
+![image](https://github.com/KumaravelIT/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/blob/main/Screenshot%202024-02-23%20155118.png)
 
 
 [My image](username.github.com/repository/img/image.jpg)
